@@ -1,3 +1,3 @@
-# Pages
+# Página:
 
-## Spiderman (Tobey Maguire)
+## Spiderman (Tobey Maguire).

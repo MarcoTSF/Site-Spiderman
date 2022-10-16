@@ -1,3 +1,3 @@
-# Pages
+# Página:
 
-## Amazing Spiderman (Andrew Garfield)
+## Amazing Spiderman (Andrew Garfield).
