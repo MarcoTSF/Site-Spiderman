@@ -1,11 +1,11 @@
-a.link-button{
+a.link-button {
   display: flex;
   align-items: center;
   justify-content: center;
   color: white;
 }
 
-a.link-button .icon{
+a.link-button .icon {
   width: 32px;
   height: 32px;
   padding: 3px;
@@ -19,7 +19,7 @@ a.link-button .icon{
   justify-content: center;
 }
 
-a.link-button .icon .play-icon{
+a.link-button .icon .play-icon {
   border:solid 7px white;
   width:0;
   height: 0;
@@ -29,6 +29,6 @@ a.link-button .icon .play-icon{
   margin-right: -7px;
 }
 
-a.link-button .label{
+a.link-button .label {
   margin-left: 10px;
 }

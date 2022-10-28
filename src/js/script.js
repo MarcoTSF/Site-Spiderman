@@ -3,10 +3,14 @@ function handleMouseEnter() {
   document.body.id = `${this.id}-hovered`;
 }
 
+
+
 function handleMouseLeave() {
   this.classList.remove('s-card--hovered');
   document.body.id = '';
 }
+
+
 
 function addEventListenersToCards() {
   const cardElements = document.getElementsByClassName('s-card');
@@ -18,7 +22,11 @@ function addEventListenersToCards() {
   }
 }
 
+
+
 document.addEventListener("DOMContentLoaded", addEventListenersToCards, false);
+
+
 
 function selectCarouselItem(selectedButtonElement) {
   const selectedItem = selectedButtonElement.id;
