@@ -31,8 +31,8 @@
   justify-content: center;
 }
 
-.navigator::before {
-  content: '';
+.navigator:before {
+  content: "";
   position: absolute;
   top: 0;
   width: 2px;
